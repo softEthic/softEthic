@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Youcef 👋
 
-<!--
-**softEthic/softEthic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Web Development Student  
+📍 Canada  
+🚀 Focused on improving every day  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Courses Completed
+- Web Development
+- Linux Basics
+- Front-End Foundations (HTML & CSS)
+- JavaScript Fundamentals
+- Adobe Photoshop
+- Adobe Illustrator
+
+---
+
+## 🔥 About Me
+Motivated Web Development student based in Canada with a strong foundation in front-end development, UI/UX principles, and design tools.  
+Committed to continuous improvement, clean code practices, and building real-world projects that solve meaningful problems.
+
+---
+
+## 🛠 Skills
+
+### 💻 Development
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- Linux
+- VS Code
+
+### 🎨 Design
+- UI/UX Design
+- Adobe Photoshop
+- Adobe Illustrator
