@@ -1,6 +1,6 @@
 <!-- GIF animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xiNzVwb3Ezdmwxemc4bDZxOHM3eWN4M3Z6bG10NWRlN2VjcmludiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/10zxDv7Hv5RF9C/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xiNzVwb3Ezdmwxemc4bDZxOHM3eWN4M3Z6bG10NWRlN2VjcmludiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/10zxDv7Hv5RF9C/giphy.gif" width="300"/>
 </p>
 
 <!-- Skill badges -->
