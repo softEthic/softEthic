@@ -1,6 +1,6 @@
 <!-- GIF animation -->
 <p align="center">
-  <img src="https://giphy.com/gifs/WBPictures-fancy-dune-part-two-WEmzVuNX2V7pPadFzD" width="500"/>
+  <img src="dune2.gif" width="500"/>
 </p>
 
 <!-- Skill badges -->
