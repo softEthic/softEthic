@@ -46,6 +46,8 @@ Committed to continuous improvement, clean code practices, and building real-wor
 - GitHub
 - Linux
 - VS Code
+- Java
+- Swift
 
 ### 🎨 Design
 - UI/UX Design
